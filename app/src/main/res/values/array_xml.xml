@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_supplier_options">
+        <item>@string/supplier_unknown</item>
+        <item>@string/supplier_amazon</item>
+        <item>@string/supplier_jarirr</item>
+        <item>@string/supplier_obeikan</item>
+    </string-array>
+</resources>
